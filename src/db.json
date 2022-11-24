@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Película",
+    "emoji": "🦕🌍",
+    "text": "jurassic world",
+    "extra": "Ambientada 22 años después de los acontecimientos de Parque Jurásico, Jurassic World tiene lugar en la misma isla ficticia centroamericana de isla Nublar, frente a la costa del Pacífico de Costa Rica, donde un nuevo parque temático poblado con dinosaurios clonados ha operado durante diez años. Sin embargo, el parque se sumerge en el caos cuando se escapa un dinosaurio genéticamente modificado y extremadamente peligroso conocido como la Indominus rex."
+  },
+  {
+    "id": 2,
+    "title": "Película",
+    "emoji": "🤥",
+    "text": "pinocho",
+    "extra": "El filme cuenta la historia de un anciano carpintero llamado Geppetto que talla una marioneta de madera llamada Pinocho. El títere cobra vida gracias a un hada azul, quien le promete que puede convertirse en un niño de verdad si prueba ser «bueno, sincero y generoso». Los esfuerzos de Pinocho para convertirse en un niño de verdad implican encuentros con una gran cantidad de personajes mal influyentes y estafadores."
+  },
+  {
+    "id": 3,
+    "title": "Anime",
+    "emoji": "🐉🎱",
+    "text": "dragon ball",
+    "extra": "La historia de Dragon Ball ha sido adaptada al anime en distintas ocasiones y en distintos formatos comenzando con la serie original, Dragon Ball en 1986 hasta Dragon Ball Super en 2018. A esto hay que sumarle OVAs, especiales televisivos y películas de cine."
+  },
+  {
+    "id": 4,
+    "title": "Libro",
+    "emoji": "🧑‍🚀🧑‍🌾🥔",
+    "text": "el marciano",
+    "extra": "En octubre de 2015 fue estrenada su correspondiente adaptación cinematográfica, The Martian, dirigida por Ridley Scott y escrita por Drew Goddard."
+  },
+  {
+    "id": 5,
+    "title": "Libro",
+    "emoji": "⌛🛏️🧪",
+    "text": "Hábitos atomicos",
+    "extra": "James Clear nos brinda fantásticas ideas basadas en investigaciones científicas, que le permiten revelarnos cómo podemos transformar pequeños hábitos cotidianos para cambiar nuestra vida y mejorarla."
+  },
+  {
+    "id": 6,
+    "title": "marca",
+    "emoji": "💻🪟",
+    "text": "microsoft windows",
+    "extra": "Windows es el nombre de una familia de distribuciones de software para PC, servidores, sistemas empotrados y antiguamente teléfonos inteligentes desarrollados y vendidos por Microsoft y disponibles para múltiples arquitecturas, tales como x86, x86-64 (x64) y ARM."
+  },
+  {
+    "id": 7,
+    "title": "personaje",
+    "emoji": "🪄🐕‍🦺",
+    "text": "el encantador de perros",
+    "extra": "Con una habilidad única para ver el mundo a través de los ojos de los perros, el renombrado experto en comportamiento canino, César Millán rehabilita todos los perros que tienen problemas de actitud."
+  },
+  {
+    "id": 8,
+    "title": "pelicula",
+    "emoji": "🛳️🧊",
+    "text": "titanic",
+    "extra": "Titanic es una película estadounidense de 1997, dramática y de catástrofe, dirigida y escrita por James Cameron y protagonizada por Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Gloria Stuart y Bill Paxton."
+  },
+  {
+    "id": 9,
+    "title": "libro",
+    "emoji": "🧑🧙‍♂️⚔️🐺",
+    "text": "the witcher",
+    "extra": "La Saga de Geralt de Rivia o la Saga del brujo (en polaco, Saga o wiedźminie) es una serie de cuentos y novelas de fantasía heroica creada por el escritor polaco Andrzej Sapkowski."
+  },
+  {
+    "id": 10,
+    "title": "pelicula",
+    "emoji": "🥄🐁👨‍🍳🥘",
+    "text": "Ratatouille",
+    "extra": "La película narra la historia de una rata peruana que sueña con convertirse en chef y para realizar su objetivo, decide hacer una alianza con el hijo de uno de los cocineros más prestigiosos de Francia. Fue un éxito de taquilla y recibió críticas positivas, además de ganar el Premio Óscar a la mejor película de animación, entre otros premios."
+  },
+  {
+    "id": 11,
+    "title": "pelicula",
+    "emoji": "🌍🙊🙉🙈🐒🐵",
+    "text": "El planeta de los simios",
+    "extra": "Un astronauta llega a un planeta del futuro, donde los simios son muy inteligentes y dominan a los humanos."
+  },
+  {
+    "id": 12,
+    "title": "postre",
+    "emoji": "☕🍷🍰",
+    "text": "Tiramisu",
+    "extra": "El tiramisú es un pastel frío que se monta en capas. No existe una receta única de elaboración, sino variantes a partir de una serie de ingredientes base que pueden ser representados por distintos productos."
+  },
+  {
+    "id": 13,
+    "title": "compañia",
+    "emoji": "👨🍗",
+    "text": "kfc",
+    "extra": "Kentucky Fried Chicken, conocida oficialmente por sus siglas KFC, es una cadena de restaurantes de comida rápida estadounidense especializada en pollo frito, fundada por Harland D. Sanders, que pertenece al grupo Yum! Brands. Con sede en Louisville, Kentucky, cuenta con más de 22 000 restaurantes en 150 países y se encuentra en la segunda posición a nivel de franquicias, por detrás de McDonald's."
+  }
+]
